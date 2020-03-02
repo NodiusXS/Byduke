@@ -7,7 +7,7 @@ const fs = require('fs')
 //var token = configt;
 let coins = require("./functions/coins.json");
 let xp = require("./functions/exp.json");
-client.login('token');
+client.login('NTU2NzE1MzM1ODkwMjM5NTA5.D3lU-g.Miq6KdCZ4uL8rLv5dQIvaE8T-G4');
 
 var prefix = configp;
 //var owners = require('./config/owners.json');
